@@ -1,0 +1,1 @@
+Quizzeria is a Telegram bot. It contains various quizzes. Quizzeria works with MongoDB.
